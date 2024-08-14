@@ -74,9 +74,7 @@ public class RegisterDemoFlow {
 
 		// Maximize the window
 		driver.manage().window().maximize();
-		System.out.println();
-		System.out.println("Application is launched successfully");
-		
+		System.out.println("Application is launched successfully");		
 
 	}
 
